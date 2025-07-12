@@ -1,1 +1,1 @@
-# scrabble---QT-framework-GUI
+# Scrabble-game-gui
